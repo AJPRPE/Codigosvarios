@@ -3,9 +3,9 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 # Configura tus credenciales y la información del correo
-from_email = 'anderson.pierola.r@uni.pe'
-to_email = 'anderson.pierola.r@uni.pe'
-password = 'vuht jpum jmne zimf'
+from_email = 'correodesalida'
+to_email = 'correodellegada'
+password = 'contraseñadeaplicacion'
 
 # Crea el mensaje
 mensaje = MIMEMultipart()
